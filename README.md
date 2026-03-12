@@ -10,7 +10,7 @@
 <p align="left">Como se trata de uma aplicação em PHP, também é possível utilizá-la através de dispositivos móveis, basta apenas que esteja sendo hospedada em um servidor.</p>
 
 <p align="center">
-  <img src="public/Exemplo2.gif" width="500" height="1000">
+  <img src="public/Exemplo2.gif" width="400" height="650">
 </p>
 
 <h2 align="left">Pré-requisitos</h1>
