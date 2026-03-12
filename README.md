@@ -9,6 +9,8 @@
 
 <p align="left">Como se trata de uma aplicação em PHP, também é possível utilizá-la através de dispositivos móveis, basta apenas que esteja sendo hospedada em um servidor.</p>
 
+![](public/Exemplo2.gif)
+
 <h2 align="left">Pré-requisitos</h1>
 <p align="left">- PHP>=8.2
 <p align="left">- Oracle Instant Client 21.4 ou mais recente
