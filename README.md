@@ -7,7 +7,7 @@
 
 ![](public/Exemplo.gif)
 
-<p align="left">Como se trata de uma aplicação em PHP, também é possível utilizá-la através de dispositivos móveis, basta apenas que esteja sendo rodada em um servidor.</p>
+<p align="left">Como se trata de uma aplicação em PHP, também é possível utilizá-la através de dispositivos móveis, basta apenas que esteja sendo hospedada em um servidor.</p>
 
 <h2 align="left">Pré-requisitos</h1>
 <p align="left">- PHP>=8.2
