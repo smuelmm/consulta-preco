@@ -3,9 +3,11 @@
 <h1 align="center">Consulta Preço</h1>
 
 <h2 align="left">Sobre</h1>
-<p align="left">Esta aplicação Laravel foi feita para fazer consultas de estoques de peças de roupas em múltiplas sedes em tempo real utilizando consultas em PL/SQL.</p>
+<p align="left">Esta aplicação Laravel foi feita para fazer consultas de estoques de peças de roupas em múltiplas sedes em tempo real utilizando consultas em PL/SQL. Cada usuário pode fazer suas pesquisas de peças que estão no estoque de sua sede e verificar os estoques de outras em caso de falta.</p>
 
 ![](public/Exemplo.gif)
+
+<p align="left">Como se trata de uma aplicação em PHP, também é possível utilizá-la através de dispositivos móveis, basta apenas que esteja sendo rodada em um servidor.</p>
 
 <h2 align="left">Pré-requisitos</h1>
 <p align="left">- PHP>=8.2
