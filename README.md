@@ -11,5 +11,5 @@
 <p align="left">- PHP>=8.2
 <p align="left">- Oracle Instant Client 21.4 ou mais recente
 <p align="left">- Laravel-OCI8 ([https://yajrabox.com/docs/laravel-oci8/12.0](https://github.com/yajra/laravel-oci8))
-<p align="left">- OCI8
+
 
