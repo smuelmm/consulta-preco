@@ -1,0 +1,12 @@
+div {
+	width: 100px;
+	height: 100px;
+}
+
+#container-a {
+	background-color: red;
+}
+
+#container-b {
+	background-color: blue;
+}
